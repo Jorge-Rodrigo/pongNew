@@ -1,0 +1,1 @@
+global.goal = false;
