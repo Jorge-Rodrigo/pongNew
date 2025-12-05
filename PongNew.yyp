@@ -19,6 +19,7 @@
     {"id":{"name":"obj_points","path":"objects/obj_points/obj_points.yy",},"order":3,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
     {"id":{"name":"spr_scorebar","path":"sprites/spr_scorebar/spr_scorebar.yy",},"order":1,},
+    {"id":{"name":"obj_ball2","path":"objects/obj_ball2/obj_ball2.yy",},"order":6,},
     {"id":{"name":"scr_global","path":"scripts/scr_global/scr_global.yy",},"order":0,},
     {"id":{"name":"fnt_main","path":"fonts/fnt_main/fnt_main.yy",},"order":0,},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},"order":4,},
